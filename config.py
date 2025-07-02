@@ -1,0 +1,7 @@
+TELEGRAM_TOKEN = "your_telegram_bot_token"
+TELEGRAM_CHAT_ID = "your_telegram_chat_id"
+EMAIL_USER = "your_email@example.com"
+EMAIL_PASS = "your_email_password"
+EMAIL_TO = "recipient@example.com"
+GOOGLE_SHEET_ID = "your_google_sheet_id"
+GOOGLE_CRED_JSON = "service_account.json"
